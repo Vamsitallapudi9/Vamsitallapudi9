@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vamsitallapudi9
-- 👀 I’m interested in ... Data sceince related everything
-- 🌱 I’m currently learning ... Data sceince
+- 👋 Hi, I’m Vamsi tallapudi
+- 👀 I’m interested in ... Data related everything
+- 🌱 I’m currently learning ... Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email me at vamsii.tallapudi@gmail.com
 
