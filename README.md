@@ -4,11 +4,7 @@
 Welcome to my GitHub profile! I'm Vamsi, a passionate IT professional with a strong background in Product analysis, data science, and machine learning. I am dedicated to continuous learning and enjoy working on innovative projects. Here, you'll find a collection of my projects, contributions, and open-source work. Feel free to explore and connect with me on LinkedIn or through email.
 
 ## Projects
-### Web Scraping of Top 400 Movies in IMDB
-### EDA of Several Projects 
-### Home Loan Prediction
-### Customer segmentation
-### Movie Recommender System
+https://github.com/Vamsitallapudi9/Projects-Data-science.git
 
 ## Skills
 - Programming Languages: C, Python (Intermediate level)
