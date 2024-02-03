@@ -79,9 +79,11 @@ Results-driven data professional with expertise in data science and analytics. P
 
 ## Personal Details
 
-- **Full Name:** Vamsi Surya Chandra Durga Phani Prasad Tallapudi
-- **Father's Name:** T. Hari Satyanarayana
-- **Date of Birth:** 9th April 2000
-- **Languages known:** English, Telugu, and Hindi
-- **Current Address:** 10-60, Panchayat Street, Bikkavolu, E G district, Andhra Pradesh, 533343
+|    Full Name               |   Vamsi Surya Chandra Durga Phani Prasad Tallapudi                                   |
+|-------------------------|---------------------------------------------------|
+| Father's Name           | T. Hari Satyanarayana                             |
+| Date of Birth           | 9th April 2000                                   |
+| Languages known         | English, Telugu, and Hindi                        |
+| Current Address         | 10-60, Panchayat Street, Bikkavolu, E G district, Andhra Pradesh, 533343 |
+
 
