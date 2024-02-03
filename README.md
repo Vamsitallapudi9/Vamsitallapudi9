@@ -83,23 +83,23 @@ Results-driven data professional with expertise in data science and analytics. P
 <table>
   <tr>
     <td>Full Name</td>
-    <td>[Your Full Name]</td>
+    <td>Vamsi Surya Chandra Durga Phani Prasad Tallapudi </td>
   </tr>
   <tr>
     <td>Father's Name</td>
-    <td>[Father's Full Name]</td>
+    <td>Hari Satyanarayana</td>
   </tr>
   <tr>
     <td>Date of Birth</td>
-    <td>[Your Date of Birth]</td>
+    <td>09-April-2000</td>
   </tr>
   <tr>
     <td>Languages known</td>
-    <td>[Languages Known]</td>
+    <td>English,Telugu and Hindi</td>
   </tr>
   <tr>
     <td>Current Address</td>
-    <td>[Your Current Address]</td>
+    <td>10-60, Panchayat Street, Bikkavolu, E G district, Andhra Pradesh, 533343/td>
   </tr>
 </table>
 
