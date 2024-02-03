@@ -3,10 +3,9 @@ Welcome to my Profile
 ```markdown
 # Vamsi Tallapudi - Data Scientist/Data Engineer | Senior Systems Engineer
 
-📍 **Location:** East Godavari, Andhra Pradesh  
-📧 **Email:** [vamsii.tallapudi@gmail.com](mailto:vamsii.tallapudi@gmail.com)  
+📧 **Email:** [vamsii.tallapudi@gmail.com](mailto:vamsii.tallapudi@gmail.com)
 ☎️ **Contact Number:** (+91) 9701668777  
-🌐 **Social Profiles:** [LinkedIn](<https://www.linkedin.com/in/vamsitallapudi/>) | [GitHub](<https://github.com/Vamsitallapudi9>) | [Resume](<https://drive.google.com/drive/folders/18tt0YG91LhjzEqNuif8vmdvnzTwHIzwn?usp=drive_link>)
+🌐 **Social Profiles:** [LinkedIn](https://www.linkedin.com/in/vamsitallapudi/) | [GitHub](https://github.com/Vamsitallapudi9) | [Resume](https://drive.google.com/drive/folders/18tt0YG91LhjzEqNuif8vmdvnzTwHIzwn?usp=drive_link)
 
 ## Objective
 
@@ -61,10 +60,10 @@ Results-driven data professional with expertise in data science and analytics. P
 
 ## Professional Certifications
 
-- IBM Data Science Professional Certification - Innomatics Research Labs (Concluded)(<https://www.linkedin.com/posts/vamsitallapudi_course-completion-activity-7094842507359899648-8YNX?utm_source=share&utm_medium=member_desktop>)
+- [IBM Data Science Professional Certification - Innomatics Research Labs ](https://www.linkedin.com/posts/vamsitallapudi_course-completion-activity-7094842507359899648-8YNX?utm_source=share&utm_medium=member_desktop)
 - IBM Data Engineering Professional Certification - Coursera (Yet to be Concluded)
 
-## Projects (<https://github.com/Vamsitallapudi9/Projects-Data-science>)
+## [Projects](https://github.com/Vamsitallapudi9/Projects-Data-science)
 
 ## Personal Details
 
@@ -75,4 +74,3 @@ Results-driven data professional with expertise in data science and analytics. P
 - **Current Address:** 10-60, Panchayat Street, Bikkavolu, E G district, Andhra Pradesh, 533343
 ```
 
-As before, make sure to replace `<LinkedIn Link>`, `<GitHub Link>`, and `<HackerRank Link>` with your actual profile URLs. Verify all the information before using it in the README file.
