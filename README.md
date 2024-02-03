@@ -25,30 +25,38 @@ Results-driven data professional with expertise in data science and analytics. P
 - Exhibited a strong work ethic and dedication to delivering quality work during the internship, showcasing a deep understanding of data science concepts.
 
 ## Skills
+| Data Skills                               |                                |
+|-------------------------------------------|--------------------------------|
+| Data analysis and Warehousing             | Storytelling                   |
+| Statistical analysis                      | Pattern Recognition           |
+| Hypothesis testing                        | Prompt Engineering             |
 
-| Data Skills                               | Technical Skills                           | Personal Skills                           |
-|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| Data analysis and Warehousing             | Languages: Python                         | Effective Communication                   |
-| Statistical analysis                      | Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc | Problem-Solving                           |
-| Hypothesis testing                        | DBMS languages(SQL and NOSQL): SQL (MySQL, PostgreSQL), NoSQL: MongoDB, Cassandra, IBM Cloudant | Adaptability                              |
-| Prompt Engineering                        | SDLC Methodologies: Agile, Scrum, Waterfall | Time Management                           |
-|                                           | Data Analysis & Visualization: Data mining, Statistics (Descriptive and Prescriptive), EDA, Power BI, Tableau, Excel, PowerPoint | Negotiation                               |
-|                                           | Machine Learning: Feature Selection and Extraction, NLP, Computer Vision, Regression Analysis, Classification | Attention to Detail                       |
-|                                           | Big Data Technologies: Apache Hadoop, Apache Spark, MapReduce, HDFS, Data Warehousing, ETL, Data Pipelines | Critical Thinking                         |
-|                                           | Cloud Fundamentals and Version Control: Git (Basic Usage) | Leadership                                |
-|                                           | Shell Scripting: Bash (Unix Shell)        | Teamwork                                  |
-|                                           | Operating Systems: Linux, Windows         | Conflict Resolution                       |
-|                                           |                                           | Active Listening                          |
-|                                           |                                           | Decision Making                           |
-|                                           |                                           | Self-Motivation                           |
-|                                           |                                           | Positive Attitude                         |
-|                                           |                                           | Flexibility                               |
-|                                           |                                           | Patience                                  |
-|                                           |                                           | Open-Mindedness                           |
-|                                           |                                           | Self-Confidence                           |
-|                                           |                                           | Continuous Learning                       |
-|                                           |                                           | Technology Adoption                       |
-|                                           |                                           | Composure Under Pressure                  |
+| Technical Skills                           |                                |
+|-------------------------------------------|--------------------------------|
+| Languages                                 | Python                         |
+| Libraries                                | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc |
+| DBMS languages(SQL and NOSQL)              | SQL (MySQL, PostgreSQL), NoSQL: MongoDB, Cassandra, IBM Cloudant |
+| SDLC Methodologies                        | Agile, Scrum, Waterfall         |
+| Data Analysis & Visualization             | Data mining, Statistics (Descriptive and Prescriptive), EDA, Power BI, Tableau, Excel, PowerPoint |
+| Machine Learning                          | Feature Selection and Extraction, NLP, Computer Vision, Regression Analysis, Classification |
+| Big Data Technologies                     | Apache Hadoop, Apache Spark, MapReduce, HDFS, Data Warehousing, ETL, Data Pipelines |
+| Cloud Fundamentals and Version Control    | Git (Basic Usage)               |
+| Shell Scripting                           | Bash (Unix Shell)               |
+| Operating Systems                         | Linux, Windows                  |
+
+| Personal Skills                           |                                |
+|-------------------------------------------|--------------------------------|
+| Effective Communication                   | Problem-Solving                |
+| Adaptability                              | Time Management                |
+| Negotiation                               | Attention to Detail            |
+| Critical Thinking                         | Leadership                     |
+| Teamwork                                  | Conflict Resolution             |
+| Active Listening                          | Decision Making                |
+| Self-Motivation                           | Positive Attitude               |
+| Flexibility                               | Patience                       |
+| Open-Mindedness                           | Self-Confidence                |
+| Continuous Learning                       | Technology Adoption            |
+| Composure Under Pressure                  |                                |
 
 ## Education
 
