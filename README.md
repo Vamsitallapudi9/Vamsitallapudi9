@@ -31,6 +31,7 @@ Results-driven data professional with expertise in data science and analytics. P
 | Data analysis and Warehousing             | Storytelling                   |
 | Statistical analysis                      | Pattern Recognition           |
 | Hypothesis testing                        | Prompt Engineering             |
+| Time Series Analysis|
 
 | Technical Skills                           |                                |
 |-------------------------------------------|--------------------------------|
@@ -79,8 +80,7 @@ Results-driven data professional with expertise in data science and analytics. P
 
 ## Personal Details
 
-|    Full Name               |   Vamsi Surya Chandra Durga Phani Prasad Tallapudi                                   |
-|-------------------------|---------------------------------------------------|
+| Full Name               | Vamsi Surya Chandra Durga Phani Prasad Tallapudi |
 | Father's Name           | T. Hari Satyanarayana                             |
 | Date of Birth           | 9th April 2000                                   |
 | Languages known         | English, Telugu, and Hindi                        |
