@@ -1,6 +1,6 @@
-Welcome to my Profile
+# Welcome to my Profile
 
-# Vamsi Tallapudi - Data Scientist/Data Engineer | Senior Systems Engineer
+## Vamsi Tallapudi - Data Scientist/Data Engineer | Senior Systems Engineer
 
 📧 **Email:** [vamsii.tallapudi@gmail.com](mailto:vamsii.tallapudi@gmail.com)
 ☎️ **Contact Number:** (+91) 9701668777  
@@ -26,25 +26,29 @@ Results-driven data professional with expertise in data science and analytics. P
 
 ## Skills
 
-### Data Skills
-- Data analysis and warehousing
-- Storytelling, statistical analysis, pattern recognition, hypothesis testing
-- Prompt engineering
-
-### Technical Skills
-- **Languages:** Python
-  - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc.
-- **DBMS languages:** SQL (MySQL, PostgreSQL), NoSQL: MongoDB, Cassandra, IBM Cloudant
-- **SDLC Methodologies:** Agile, Scrum, Waterfall
-- **Data Analysis & Visualization:** Data mining, statistics (descriptive and prescriptive), EDA, Power BI, Tableau, Excel, and PowerPoint
-- **Machine Learning:** Feature Selection and Extraction, NLP, Computer Vision, Regression Analysis, Classification
-- **Big Data Technologies:** Apache Hadoop, Apache Spark, MapReduce, HDFS, Data Warehousing, ETL, Data Pipelines
-- **Cloud Fundamentals and Version Control:** Git (Basic Usage)
-- **Shell Scripting:** Bash (Unix Shell)
-- **Operating Systems:** Linux and Windows
-
-### Personal Skills
-- Effective Communication, Problem-Solving, Adaptability, Time Management, Negotiation, Attention to Detail, Critical Thinking, Leadership, Teamwork, Conflict Resolution, Active Listening, Decision Making, Self-Motivation, Positive Attitude, Flexibility, Patience, Open-Mindedness, Self-Confidence, Continuous Learning, Technology Adoption, Composure Under Pressure
+| Data Skills                               | Technical Skills                           | Personal Skills                           |
+|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| Data analysis and Warehousing             | Languages: Python                         | Effective Communication                   |
+| Statistical analysis                      | Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc | Problem-Solving                           |
+| Hypothesis testing                        | DBMS languages(SQL and NOSQL): SQL (MySQL, PostgreSQL), NoSQL: MongoDB, Cassandra, IBM Cloudant | Adaptability                              |
+| Prompt Engineering                        | SDLC Methodologies: Agile, Scrum, Waterfall | Time Management                           |
+|                                           | Data Analysis & Visualization: Data mining, Statistics (Descriptive and Prescriptive), EDA, Power BI, Tableau, Excel, PowerPoint | Negotiation                               |
+|                                           | Machine Learning: Feature Selection and Extraction, NLP, Computer Vision, Regression Analysis, Classification | Attention to Detail                       |
+|                                           | Big Data Technologies: Apache Hadoop, Apache Spark, MapReduce, HDFS, Data Warehousing, ETL, Data Pipelines | Critical Thinking                         |
+|                                           | Cloud Fundamentals and Version Control: Git (Basic Usage) | Leadership                                |
+|                                           | Shell Scripting: Bash (Unix Shell)        | Teamwork                                  |
+|                                           | Operating Systems: Linux, Windows         | Conflict Resolution                       |
+|                                           |                                           | Active Listening                          |
+|                                           |                                           | Decision Making                           |
+|                                           |                                           | Self-Motivation                           |
+|                                           |                                           | Positive Attitude                         |
+|                                           |                                           | Flexibility                               |
+|                                           |                                           | Patience                                  |
+|                                           |                                           | Open-Mindedness                           |
+|                                           |                                           | Self-Confidence                           |
+|                                           |                                           | Continuous Learning                       |
+|                                           |                                           | Technology Adoption                       |
+|                                           |                                           | Composure Under Pressure                  |
 
 ## Education
 
