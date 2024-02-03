@@ -1,6 +1,5 @@
 Welcome to my Profile
 
-```markdown
 # Vamsi Tallapudi - Data Scientist/Data Engineer | Senior Systems Engineer
 
 📧 **Email:** [vamsii.tallapudi@gmail.com](mailto:vamsii.tallapudi@gmail.com)
@@ -72,5 +71,4 @@ Results-driven data professional with expertise in data science and analytics. P
 - **Date of Birth:** 9th April 2000
 - **Languages known:** English, Telugu, and Hindi
 - **Current Address:** 10-60, Panchayat Street, Bikkavolu, E G district, Andhra Pradesh, 533343
-```
 
