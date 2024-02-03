@@ -99,7 +99,7 @@ Results-driven data professional with expertise in data science and analytics. P
   </tr>
   <tr>
     <td>Current Address</td>
-    <td>10-60, Panchayat Street, Bikkavolu, E G district, Andhra Pradesh, 533343/td>
+    <td>10-60, Panchayat Street, Bikkavolu, E G district, Andhra Pradesh, 533343</td>
   </tr>
 </table>
 
