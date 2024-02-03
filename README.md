@@ -7,7 +7,7 @@ Welcome to my Profile! 🌟
 📧 **Email:** [vamsii.tallapudi@gmail.com](mailto:vamsii.tallapudi@gmail.com)
 ☎️ **Contact Number:** (+91) 9701668777  
 🌐 **Social Profiles:** [LinkedIn](https://www.linkedin.com/in/vamsitallapudi/) | [GitHub](https://github.com/Vamsitallapudi9) | [Resume](https://drive.google.com/drive/folders/18tt0YG91LhjzEqNuif8vmdvnzTwHIzwn?usp=drive_link)
-
+___
 ## Objective
 
 Results-driven data professional with expertise in data science and analytics. Passionate about applying innovative solutions to contribute to a forward-thinking company's success in data science and engineering domains.
@@ -15,8 +15,7 @@ Results-driven data professional with expertise in data science and analytics. P
 ## Experience
 
 ### Senior Systems Engineer and Product Analyst
-**Cognizant Technology Solutions - Supporting Medidata Solutions**
-- *Bangalore, Karnataka | December 2021 – Present*
+**Cognizant Technology Solutions - Supporting Medidata Solutions | Bangalore, Karnataka | December 2021 – Present**
   - Implemented cloud-based solutions with Python, Excel, SQL, and MongoDB Compass for efficient Clinical data management and cleaning.
   - Delivered impactful presentations to stakeholders and clients, playing a crucial role in various instances.
   - Addressed issues related to ECRF complexities, URLs, and reports with prompt data collection and proactive problem-solving skills.
