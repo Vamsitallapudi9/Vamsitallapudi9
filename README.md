@@ -78,7 +78,7 @@ Results-driven data professional with expertise in data science and analytics. P
 ## Professional Certifications
 
 - [IBM Data Science Professional Certification - Innomatics Research Labs ](https://www.linkedin.com/posts/vamsitallapudi_course-completion-activity-7094842507359899648-8YNX?utm_source=share&utm_medium=member_desktop)
-- [IBM Data Engineering Professional Certification - Coursera] (https://www.coursera.org/account/accomplishments/professional-cert/NT3VFL6UQ3WR)
+- [IBM Data Engineering Professional Certification - Coursera](https://www.coursera.org/account/accomplishments/professional-cert/NT3VFL6UQ3WR)
 
 ## [Projects](https://github.com/Vamsitallapudi9/Projects-Data-science)
 
