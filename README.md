@@ -3,7 +3,7 @@ Welcome to my Profile! 🌟
 ```
 
 ## Vamsi Tallapudi 
-###Data Scientist/Data Analyst - Bristol Myers Squibb
+### Data Scientist/Data Analyst - Bristol Myers Squibb
 
 📧 **Email:** [vamsii.tallapudi@gmail.com](mailto:vamsii.tallapudi@gmail.com)
 ☎️ **Contact Number:** (+91) 9701668777  
