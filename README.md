@@ -2,7 +2,7 @@
 Welcome to my Profile! 🌟
 ```
 
-## Vamsi Tallapudi - Data Scientist/Data Engineer | Senior Systems Engineer
+## Vamsi Tallapudi - Data Scientist/Data Analyst - Bristol Myers Squibb
 
 📧 **Email:** [vamsii.tallapudi@gmail.com](mailto:vamsii.tallapudi@gmail.com)
 ☎️ **Contact Number:** (+91) 9701668777  
