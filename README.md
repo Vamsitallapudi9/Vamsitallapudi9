@@ -113,70 +113,70 @@ Deep experience turning unstructured protocols, safety data, and regulatory docu
 ## ✦ Tech Stack
 
 <sub><b>GENERATIVE&nbsp;AI&nbsp;&&nbsp;LLMs</b></sub><br />
-<img alt="Python" src="https://img.shields.io/badge/Python-1f1f1f?style=flat-square&logo=python&logoColor=ffffff" />
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-1f1f1f?style=flat-square" />
-<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1f1f1f?style=flat-square" />
-<img alt="PydanticAI" src="https://img.shields.io/badge/PydanticAI-1f1f1f?style=flat-square" />
-<img alt="RAG" src="https://img.shields.io/badge/RAG-1f1f1f?style=flat-square" />
-<img alt="MCP" src="https://img.shields.io/badge/MCP-1f1f1f?style=flat-square" />
-<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-1f1f1f?style=flat-square" />
-<img alt="Structured Outputs" src="https://img.shields.io/badge/Structured%20Outputs-1f1f1f?style=flat-square" />
-<img alt="Agentic Workflows" src="https://img.shields.io/badge/Agentic%20Workflows-1f1f1f?style=flat-square" />
+<img alt="Python" src="https://img.shields.io/badge/Python-4a4a4a?style=flat-square&logo=python&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-4a4a4a?style=flat-square&logo=langchain&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="PydanticAI" src="https://img.shields.io/badge/PydanticAI-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="RAG" src="https://img.shields.io/badge/RAG-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="MCP" src="https://img.shields.io/badge/MCP-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Structured Outputs" src="https://img.shields.io/badge/Structured%20Outputs-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Agentic Workflows" src="https://img.shields.io/badge/Agentic%20Workflows-4a4a4a?style=flat-square&labelColor=4a4a4a" />
 
 <br /><br />
 <sub><b>LLM&nbsp;INFERENCE&nbsp;&&nbsp;OPTIMIZATION</b></sub><br />
-<img alt="vLLM" src="https://img.shields.io/badge/vLLM-1f1f1f?style=flat-square" />
-<img alt="Continuous Batching" src="https://img.shields.io/badge/Continuous%20Batching-1f1f1f?style=flat-square" />
-<img alt="KV Cache" src="https://img.shields.io/badge/KV%20Cache-1f1f1f?style=flat-square" />
-<img alt="Speculative Decoding" src="https://img.shields.io/badge/Speculative%20Decoding-1f1f1f?style=flat-square" />
-<img alt="Quantization" src="https://img.shields.io/badge/Quantization%20(GPTQ%2FAWQ%2FFP8%2FINT4)-1f1f1f?style=flat-square" />
+<img alt="vLLM" src="https://img.shields.io/badge/vLLM-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Continuous Batching" src="https://img.shields.io/badge/Continuous%20Batching-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="KV Cache" src="https://img.shields.io/badge/KV%20Cache-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Speculative Decoding" src="https://img.shields.io/badge/Speculative%20Decoding-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Quantization" src="https://img.shields.io/badge/Quantization%20(GPTQ%2FAWQ%2FFP8%2FINT4)-4a4a4a?style=flat-square&labelColor=4a4a4a" />
 
 <br /><br />
 <sub><b>LLMOPS&nbsp;&&nbsp;EVALUATION</b></sub><br />
-<img alt="LangSmith" src="https://img.shields.io/badge/LangSmith-1f1f1f?style=flat-square" />
-<img alt="LLM-as-Judge" src="https://img.shields.io/badge/LLM--as--Judge-1f1f1f?style=flat-square" />
-<img alt="Human Evaluation" src="https://img.shields.io/badge/Human%20Evaluation-1f1f1f?style=flat-square" />
-<img alt="Benchmark Design" src="https://img.shields.io/badge/Benchmark%20Design-1f1f1f?style=flat-square" />
-<img alt="Hallucination Detection" src="https://img.shields.io/badge/Hallucination%20Detection-1f1f1f?style=flat-square" />
+<img alt="LangSmith" src="https://img.shields.io/badge/LangSmith-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="LLM-as-Judge" src="https://img.shields.io/badge/LLM--as--Judge-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Human Evaluation" src="https://img.shields.io/badge/Human%20Evaluation-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Benchmark Design" src="https://img.shields.io/badge/Benchmark%20Design-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Hallucination Detection" src="https://img.shields.io/badge/Hallucination%20Detection-4a4a4a?style=flat-square&labelColor=4a4a4a" />
 
 <br /><br />
 <sub><b>RETRIEVAL&nbsp;&&nbsp;NLP</b></sub><br />
-<img alt="FAISS" src="https://img.shields.io/badge/FAISS-1f1f1f?style=flat-square" />
-<img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-1f1f1f?style=flat-square" />
-<img alt="Hybrid Search" src="https://img.shields.io/badge/Hybrid%20Search-1f1f1f?style=flat-square" />
-<img alt="Sentence Transformers" src="https://img.shields.io/badge/Sentence%20Transformers-1f1f1f?style=flat-square" />
-<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-1f1f1f?style=flat-square&logo=huggingface&logoColor=ffffff" />
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1f1f1f?style=flat-square&logo=pytorch&logoColor=ffffff" />
-<img alt="NER" src="https://img.shields.io/badge/NER-1f1f1f?style=flat-square" />
-<img alt="Biomedical NLP" src="https://img.shields.io/badge/Biomedical%20NLP-1f1f1f?style=flat-square" />
-<img alt="SAEs" src="https://img.shields.io/badge/Sparse%20Autoencoders-1f1f1f?style=flat-square" />
+<img alt="FAISS" src="https://img.shields.io/badge/FAISS-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Hybrid Search" src="https://img.shields.io/badge/Hybrid%20Search-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Sentence Transformers" src="https://img.shields.io/badge/Sentence%20Transformers-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-4a4a4a?style=flat-square&logo=huggingface&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-4a4a4a?style=flat-square&logo=pytorch&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="NER" src="https://img.shields.io/badge/NER-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Biomedical NLP" src="https://img.shields.io/badge/Biomedical%20NLP-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="SAEs" src="https://img.shields.io/badge/Sparse%20Autoencoders-4a4a4a?style=flat-square&labelColor=4a4a4a" />
 
 <br /><br />
 <sub><b>DATA&nbsp;ENGINEERING</b></sub><br />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-1f1f1f?style=flat-square" />
-<img alt="Redshift" src="https://img.shields.io/badge/Amazon%20Redshift-1f1f1f?style=flat-square&logo=amazonredshift&logoColor=ffffff" />
-<img alt="Impala" src="https://img.shields.io/badge/Apache%20Impala-1f1f1f?style=flat-square&logo=apache&logoColor=ffffff" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat-square&logo=postgresql&logoColor=ffffff" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1f1f1f?style=flat-square&logo=mongodb&logoColor=ffffff" />
-<img alt="Parquet" src="https://img.shields.io/badge/Apache%20Parquet-1f1f1f?style=flat-square" />
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-1f1f1f?style=flat-square&logo=pandas&logoColor=ffffff" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Redshift" src="https://img.shields.io/badge/Amazon%20Redshift-4a4a4a?style=flat-square&logo=amazonredshift&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="Impala" src="https://img.shields.io/badge/Apache%20Impala-4a4a4a?style=flat-square&logo=apache&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4a4a4a?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4a4a4a?style=flat-square&logo=mongodb&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="Parquet" src="https://img.shields.io/badge/Apache%20Parquet-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-4a4a4a?style=flat-square&logo=pandas&logoColor=ffffff&labelColor=4a4a4a" />
 
 <br /><br />
 <sub><b>CLOUD,&nbsp;DEVOPS&nbsp;&&nbsp;VISUALIZATION</b></sub><br />
-<img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-1f1f1f?style=flat-square&logo=microsoftazure&logoColor=ffffff" />
-<img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-1f1f1f?style=flat-square" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-1f1f1f?style=flat-square&logo=githubactions&logoColor=ffffff" />
-<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-1f1f1f?style=flat-square&logo=streamlit&logoColor=ffffff" />
-<img alt="Tableau" src="https://img.shields.io/badge/Tableau-1f1f1f?style=flat-square&logo=tableau&logoColor=ffffff" />
-<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-1f1f1f?style=flat-square&logo=powerbi&logoColor=ffffff" />
+<img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4a4a4a?style=flat-square&logo=microsoftazure&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-4a4a4a?style=flat-square&logo=githubactions&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-4a4a4a?style=flat-square&logo=streamlit&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-4a4a4a?style=flat-square&logo=tableau&logoColor=ffffff&labelColor=4a4a4a" />
+<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-4a4a4a?style=flat-square&logo=powerbi&logoColor=ffffff&labelColor=4a4a4a" />
 
 <br /><br />
 <sub><b>CLINICAL&nbsp;AI&nbsp;&&nbsp;LIFE&nbsp;SCIENCES</b></sub><br />
-<img alt="Clinical Trial Analytics" src="https://img.shields.io/badge/Clinical%20Trial%20Analytics-1f1f1f?style=flat-square" />
-<img alt="Protocol Intelligence" src="https://img.shields.io/badge/Protocol%20Intelligence-1f1f1f?style=flat-square" />
-<img alt="Safety Narratives" src="https://img.shields.io/badge/Safety%20Narratives-1f1f1f?style=flat-square" />
-<img alt="Regulatory AI" src="https://img.shields.io/badge/FDA%20·%20ICH%20·%2021%20CFR%20·%20GxP-1f1f1f?style=flat-square" />
-<img alt="Medical Coding" src="https://img.shields.io/badge/ICD--10%2F11%20·%20HIPAA-1f1f1f?style=flat-square" />
+<img alt="Clinical Trial Analytics" src="https://img.shields.io/badge/Clinical%20Trial%20Analytics-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Protocol Intelligence" src="https://img.shields.io/badge/Protocol%20Intelligence-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Safety Narratives" src="https://img.shields.io/badge/Safety%20Narratives-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Regulatory AI" src="https://img.shields.io/badge/FDA%20·%20ICH%20·%2021%20CFR%20·%20GxP-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img alt="Medical Coding" src="https://img.shields.io/badge/ICD--10%2F11%20·%20HIPAA-4a4a4a?style=flat-square&labelColor=4a4a4a" />
 
 <hr />
 
