@@ -40,7 +40,7 @@
   <!-- Monogram pill (top-left) -->
   <g transform="translate(56, 48)">
     <rect width="132" height="28" rx="14" ry="14" fill="rgba(255,255,255,0.14)"/>
-    <text class="mono" x="66" y="19" text-anchor="middle">V S C D P</text>
+    <text class="mono" x="66" y="19" text-anchor="middle">Vamsi</text>
   </g>
 
   <!-- Display headline + subtitle -->
