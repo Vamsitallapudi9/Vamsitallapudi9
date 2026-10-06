@@ -1,196 +1,131 @@
-<!--
-  Notion-inspired GitHub profile README for @vamsitallapudi.
-  Design language: DESIGN-notion.md — warm calm, one Notion-blue accent (#0075de),
-  sticker palette used only decoratively, heavy tight display type in the hero SVG.
-  Content source: resume.txt (all quantitative claims copied verbatim).
--->
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vamsi%20Tallapudi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer&descSize=20&descAlignY=56" width="100%" alt="Vamsi Tallapudi, AI Engineer"/>
 
-<p align="center">
-  <img src="assets/hero.svg" alt="Applied AI Engineer — Building production GenAI for clinical trials." width="100%" />
-</p>
+<div align="center">
 
-<!-- Contact row — the ONLY place Notion blue (#0075de) paints a CTA -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/vamsitallapudi/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0075de?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Vamsitallapudi9">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0075de?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:vamsii.tallapudi@gmail.com"><!-- TODO: fill email -->
-    <img alt="Email" src="https://img.shields.io/badge/Email-0075de?style=for-the-badge&logo=maildotru&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=640&lines=I+build+LLM+systems+that+hold+up+in+production.;RAG+%C2%B7+Document+Intelligence+%C2%B7+LLM+Evaluation;Built+for+places+where+close+enough+isn't+good+enough." alt="I build LLM systems that hold up in production."/>
 
-<br />
+<br/>
 
-## Hi, I'm Vamsi 👋
+<a href="https://www.linkedin.com/in/vamsitallapudi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:vamsii.tallapudi@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-Applied AI Engineer with **4+ years** across healthcare and pharma, specializing in production GenAI systems — RAG pipelines, LLM evaluation, and clinical document intelligence. I've built and shipped AI platforms that replaced a **~$1.5M/yr commercial vendor**, cut clinical authoring time from **hours to minutes**, and drove an estimated **$700K+ in annual savings**.
+</div>
 
-Deep experience turning unstructured protocols, safety data, and regulatory documents into structured, audit-ready outputs using Python, SQL, and frontier LLMs (Claude, GPT, Gemini). Author of an LLM benchmark under review at **EMNLP**, with a growing focus on evaluation systems and mechanistic interpretability.
+<br/>
 
-<hr />
+## 👋 About me
 
-## ✦ Featured Work
+```python
+vamsi = {
+    "role": "AI Engineer",
+    "builds": ["production GenAI systems", "RAG", "document intelligence", "LLM evaluation"],
+    "domain": "regulated industries: pharma and clinical R&D",
+    "exploring": ["interpretability", "agentic workflows", "better ways to evaluate LLMs"],
+    "rule_of_thumb": "If you can't measure it, don't ship it.",
+}
+```
+
+<br/>
+
+## 🧭 How I build AI systems
+
+```mermaid
+flowchart LR
+    A[📄 Messy data<br/>and documents] --> B[🧹 Clean<br/>pipelines]
+    B --> C[🔎 Retrieval<br/>and context]
+    C --> D[🧠 LLM]
+    D --> E[📏 Evaluation]
+    E --> F[👩‍⚕️ Expert<br/>review]
+    F --> G[🚀 Production]
+    E -. failures feed back .-> C
+```
+
+> The model is usually the easy part. Most of the work sits on either side of it: getting the data right before the model sees it, and proving the output is right after.
+
+<br/>
+
+## 🛠️ What I work on
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img alt="Compass" src="https://img.shields.io/badge/●-Sanofi-2a9d99?style=flat-square&labelColor=ffffff" />
-      <h3>Compass — Risk-Based Site Monitoring</h3>
-      <p>
-        Risk-based site-monitoring platform for clinical trials that ingests CTMS + operational data, computes explainable <b>Workload</b> and <b>Risk</b> scores for every site, and auto-generates monitor visit-prep summaries.
-      </p>
-      <p>
-        <sub><b>Impact —</b> Replaced a ~<b>$1.5M/yr</b> commercial RBM vendor license and cut low-value on-site monitoring visits by an estimated <b>~30%</b> (~$400K/yr in avoided travel and CRA time). Every score traceable to raw signals for audit and inspection readiness.</sub>
-      </p>
+      <h3>🤖 GenAI applications</h3>
+      Systems that turn long, unstructured documents into structured, usable output that teams rely on every day.
     </td>
     <td width="50%" valign="top">
-      <img alt="ClinTrailBench" src="https://img.shields.io/badge/●-Sanofi%20·%20EMNLP-d6b6f6?style=flat-square&labelColor=ffffff" />
-      <h3>ClinTrailBench — LLM Eval Benchmark</h3>
-      <p>
-        Benchmark for evaluating LLM reasoning and regulatory compliance using <b>FDA warning letters</b> and <b>ICH / 21 CFR</b> guidance across Claude, Gemini, GPT, DeepSeek, and other frontier models.
-      </p>
-      <p>
-        <sub><b>Impact —</b> Under review at <b>EMNLP</b> — <i>"ClinTrailBench: Strong on the Exam, Weak on the (GxP) Job."</i> Novel evaluation suite exposing the gap between LLMs' exam-style knowledge and real clinical-trial operational competence.</sub>
-      </p>
+      <h3>🔎 RAG and retrieval</h3>
+      Search and retrieval over large document sets, with answers that cite their sources.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img alt="Protocol Amendment Analyzer" src="https://img.shields.io/badge/●-BMS-dd5b00?style=flat-square&labelColor=ffffff" />
-      <h3>Protocol Amendment Analyzer</h3>
-      <p>
-        AI-powered analyzer using Python, custom DOCX/XML parsing, and <b>GPT-4.1</b> to compare protocol revisions and automatically generate change summaries.
-      </p>
-      <p>
-        <sub><b>Impact —</b> Achieved <b>90%+</b> accuracy against SME validation while eliminating ~<b>60 hours</b> of manual review per week across <b>25–40 protocols</b> monthly.</sub>
-      </p>
+      <h3>📏 LLM evaluation</h3>
+      LLM-as-judge setups, expert review loops and error analysis, so you know it works instead of hoping it does.
     </td>
     <td width="50%" valign="top">
-      <img alt="Safety Narratives" src="https://img.shields.io/badge/●-BMS-ff64c8?style=flat-square&labelColor=ffffff" />
-      <h3>Clinical Safety Narratives — GenAI Pipeline</h3>
-      <p>
-        End-to-end GenAI pipeline using <b>Claude</b> models, <b>RAG</b>, prompt engineering, and structured outputs to automatically generate clinical Safety Narratives.
-      </p>
-      <p>
-        <sub><b>Impact —</b> Reduced authoring time from <b>2 hours to 2 minutes</b>, contributing to an estimated <b>$300K–$400K</b> in annual operational savings.</sub>
-      </p>
+      <h3>🧱 Data pipelines</h3>
+      Getting messy, multi-source data clean and ready for models. Most of the real work lives here.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🔬 Interpretability</h3>
+      Looking inside models with sparse autoencoders to understand what they actually represent.
     </td>
   </tr>
 </table>
 
-<hr />
+<br/>
 
-## ✦ Experience
+## 💡 Things I've learned the hard way
 
-<table>
-  <tr>
-    <td valign="top" width="230"><b>Sanofi</b><br /><sub>Software Engineering Expert<br />Digital R&D</sub><br /><sub><i>Feb 2026 — Present · Hyderabad</i></sub></td>
-    <td valign="top">
-      Building <b>Compass</b> (RBM platform) and designing <b>ClinTrailBench</b> (EMNLP submission). Prototyped a PDFPlumber → Markdown → Claude pipeline converting protocol PDFs into visit × assessment JSON matrices, reaching ~<b>85%</b> field-level extraction accuracy over ~30 protocols with a Gemini LLM-as-judge eval. Led an interpretability PoC applying <b>Sparse Autoencoders (SAEs)</b> to GPT-2 and Microsoft <b>BioGPT</b>.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Bristol-Myers Squibb</b><br /><sub>Software Engineer 2<br />DDIT — Applied AI</sub><br /><sub><i>May 2024 — Jan 2026 · Hyderabad</i></sub></td>
-    <td valign="top">
-      Shipped the <b>Protocol Amendment Analyzer</b> and the <b>Safety Narratives</b> pipeline. Built Python/SQL ETL bridging <b>Redshift</b> and <b>Impala</b> into GenAI workflows, consolidating <b>15+ clinical datasets</b> (~$350K organization-wide impact). Developed NER pipelines with Gemini/OpenAI to extract <b>ICD-10/11, HIPAA</b>, procedural, and drug codes across <b>100+ protocols</b>. Managed ingestion and validation for <b>600+ study protocols</b> and validated 4 Tableau dashboards. Analyzed market insights across <b>52 countries</b> using Python + NLTK.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Cognizant</b><br /><sub>Senior Systems Engineer</sub><br /><sub><i>Jul 2022 — Apr 2024 · Bangalore</i></sub></td>
-    <td valign="top">
-      Cloud-based data solutions in Python, SQL, Excel, and MongoDB — data processing, cleaning, validation, and automation. Applied ML for data classification and optimized reporting workflows across Agile and Waterfall delivery.
-    </td>
-  </tr>
-</table>
+| | |
+|:--:|:--|
+| 🐛 | Most LLM bugs are data bugs. |
+| 🎯 | An eval set you trust is worth more than a model you like. |
+| ⚖️ | No single model wins everywhere. Test on your own task before you pick one. |
+| 🔍 | In regulated work, explainable beats impressive. |
 
-<hr />
+<br/>
 
-## ✦ Tech Stack
+## 🧰 Toolbox
 
-<sub><b>GENERATIVE&nbsp;AI&nbsp;&&nbsp;LLMs</b></sub><br />
-<img alt="Python" src="https://img.shields.io/badge/Python-4a4a4a?style=flat-square&logo=python&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-4a4a4a?style=flat-square&logo=langchain&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="PydanticAI" src="https://img.shields.io/badge/PydanticAI-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="RAG" src="https://img.shields.io/badge/RAG-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="MCP" src="https://img.shields.io/badge/MCP-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Structured Outputs" src="https://img.shields.io/badge/Structured%20Outputs-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Agentic Workflows" src="https://img.shields.io/badge/Agentic%20Workflows-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<div align="center">
 
-<br /><br />
-<sub><b>LLM&nbsp;INFERENCE&nbsp;&&nbsp;OPTIMIZATION</b></sub><br />
-<img alt="vLLM" src="https://img.shields.io/badge/vLLM-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Continuous Batching" src="https://img.shields.io/badge/Continuous%20Batching-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="KV Cache" src="https://img.shields.io/badge/KV%20Cache-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Speculative Decoding" src="https://img.shields.io/badge/Speculative%20Decoding-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Quantization" src="https://img.shields.io/badge/Quantization%20(GPTQ%2FAWQ%2FFP8%2FINT4)-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+**Models and LLM tooling**
 
-<br /><br />
-<sub><b>LLMOPS&nbsp;&&nbsp;EVALUATION</b></sub><br />
-<img alt="LangSmith" src="https://img.shields.io/badge/LangSmith-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="LLM-as-Judge" src="https://img.shields.io/badge/LLM--as--Judge-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Human Evaluation" src="https://img.shields.io/badge/Human%20Evaluation-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Benchmark Design" src="https://img.shields.io/badge/Benchmark%20Design-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Hallucination Detection" src="https://img.shields.io/badge/Hallucination%20Detection-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/GPT-412991?style=flat-square" alt="GPT"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" alt="DeepSeek"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LiteLLM-2E7D32?style=flat-square" alt="LiteLLM"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP"/>
+<img src="https://img.shields.io/badge/PydanticAI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="PydanticAI"/>
 
-<br /><br />
-<sub><b>RETRIEVAL&nbsp;&&nbsp;NLP</b></sub><br />
-<img alt="FAISS" src="https://img.shields.io/badge/FAISS-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Hybrid Search" src="https://img.shields.io/badge/Hybrid%20Search-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Sentence Transformers" src="https://img.shields.io/badge/Sentence%20Transformers-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-4a4a4a?style=flat-square&logo=huggingface&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-4a4a4a?style=flat-square&logo=pytorch&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="NER" src="https://img.shields.io/badge/NER-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Biomedical NLP" src="https://img.shields.io/badge/Biomedical%20NLP-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="SAEs" src="https://img.shields.io/badge/Sparse%20Autoencoders-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+<br/><br/>
 
-<br /><br />
-<sub><b>DATA&nbsp;ENGINEERING</b></sub><br />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Redshift" src="https://img.shields.io/badge/Amazon%20Redshift-4a4a4a?style=flat-square&logo=amazonredshift&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="Impala" src="https://img.shields.io/badge/Apache%20Impala-4a4a4a?style=flat-square&logo=apache&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4a4a4a?style=flat-square&logo=postgresql&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4a4a4a?style=flat-square&logo=mongodb&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="Parquet" src="https://img.shields.io/badge/Apache%20Parquet-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-4a4a4a?style=flat-square&logo=pandas&logoColor=ffffff&labelColor=4a4a4a" />
+**Engineering, data and cloud**
 
-<br /><br />
-<sub><b>CLOUD,&nbsp;DEVOPS&nbsp;&&nbsp;VISUALIZATION</b></sub><br />
-<img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4a4a4a?style=flat-square&logo=microsoftazure&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-4a4a4a?style=flat-square&logo=githubactions&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-4a4a4a?style=flat-square&logo=streamlit&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="Tableau" src="https://img.shields.io/badge/Tableau-4a4a4a?style=flat-square&logo=tableau&logoColor=ffffff&labelColor=4a4a4a" />
-<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-4a4a4a?style=flat-square&logo=powerbi&logoColor=ffffff&labelColor=4a4a4a" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,postgres,mongodb,aws,azure,docker,react,git,githubactions,linux&perline=11" alt="Python, PyTorch, PostgreSQL, MongoDB, AWS, Azure, Docker, React, Git, GitHub Actions, Linux"/>
 
-<br /><br />
-<sub><b>CLINICAL&nbsp;AI&nbsp;&&nbsp;LIFE&nbsp;SCIENCES</b></sub><br />
-<img alt="Clinical Trial Analytics" src="https://img.shields.io/badge/Clinical%20Trial%20Analytics-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Protocol Intelligence" src="https://img.shields.io/badge/Protocol%20Intelligence-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Safety Narratives" src="https://img.shields.io/badge/Safety%20Narratives-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Regulatory AI" src="https://img.shields.io/badge/FDA%20·%20ICH%20·%2021%20CFR%20·%20GxP-4a4a4a?style=flat-square&labelColor=4a4a4a" />
-<img alt="Medical Coding" src="https://img.shields.io/badge/ICD--10%2F11%20·%20HIPAA-4a4a4a?style=flat-square&labelColor=4a4a4a" />
+</div>
 
-<hr />
+<br/>
 
-## ✦ Education & Certifications
+<div align="center">
 
-- **M.Tech, Artificial Intelligence and Data Science** — KIET, Kakinada · <sub>2022 — 2024</sub>
-- **B.Tech, Electrical and Electronics Engineering** — Aditya University, Surampalem · <sub>2018 — 2021</sub>
-- **Technical Diploma, Electrical and Electronics Engineering** — APT, Anaparthi · <sub>2015 — 2018</sub>
-- **IBM Data Science Professional Certification** — Innomatics Research Labs
-- **IBM Data Engineering Professional Certification** — Coursera
+### 🤝 Let's talk
 
-<hr />
+Interested in GenAI that holds up in the real world? I'm always happy to compare notes.
 
-<p align="center">
-  <sub>Hyderabad, Telangana · Applied AI · Clinical GenAI · LLM Evaluation</sub><br />
-  <sub><i>Quiet chrome. One blue. Everything else earns its color.</i></sub>
-</p>
+<a href="https://www.linkedin.com/in/vamsitallapudi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:vamsii.tallapudi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt=""/>
